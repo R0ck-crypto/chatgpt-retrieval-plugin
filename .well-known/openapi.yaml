@@ -4,7 +4,7 @@ info:
   description: This Api let you search through Dolphindb documentation
   version: 1.0.0
   servers:
-    - url: https://whale-app-ns2hu.ondigitalocean.app/
+    - url: https://whale-app-ns2hu.ondigitalocean.app
 paths:
   /query:
     post:
