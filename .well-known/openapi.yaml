@@ -1,10 +1,10 @@
 openapi: 3.0.2
 info:
   title: Retrieval Plugin API
-  description: A retrieval API for querying and filtering documents based on natural language queries and metadata
+  description: This Api let you search through Dolphindb documentation
   version: 1.0.0
   servers:
-    - url: https://your-app-url.com
+    - url: https://whale-app-ns2hu.ondigitalocean.app/
 paths:
   /query:
     post:
